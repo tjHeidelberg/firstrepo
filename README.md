@@ -1,2 +1,1 @@
-# firstrepo ....
-lallalala
+# firstrepo .
